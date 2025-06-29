@@ -1,4 +1,6 @@
-resource_manifest_version ''
+game 'gta5'
+description 'Catrob AutoPilot'
+resource_manifest_version '1.0' 
 
 client_scripts {
     'client.lua',
