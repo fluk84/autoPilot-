@@ -1,4 +1,4 @@
-game 'gta5'
+system 'auto'
 description 'Catrob AutoPilot'
 resource_manifest_version '1.0' 
 
